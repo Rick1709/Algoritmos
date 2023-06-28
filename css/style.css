@@ -1,0 +1,36 @@
+section{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    padding: 100px 0;
+    background: url("../img/compare-fibre-tiSE_paTt0A-unsplash.jpg");
+    background-size: cover;
+}
+h1{
+    color: #ffffff;
+    font-size: 50px;
+
+}
+
+p{
+    color: #ffffff;
+    background: rgb(111, 230, 131);
+    font-size: 20px;  
+}
+
+button{
+    padding: 12px 40px;
+    background: rgb(111, 230, 131);
+    color: black;
+    margin: 20px;
+    border: 2px solid greenyellow;
+    text-transform: uppercase;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .5s;
+
+}
+button:hover{
+    background: green;
+    color: #ffffff;
+}
